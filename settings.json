@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "welcomePage",
+    "editor.wordWrap": "on",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.useSystemClipboard": true,
+    "vim.handleKeys": {
+        "<C-d>": false,
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-y>": false,
+        "<C-z>": false,
+        "<C-x>": false,
+    }
+}
