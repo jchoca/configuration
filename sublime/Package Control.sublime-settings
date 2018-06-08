@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorSchemeEditor",
+		"Indent XML",
+		"JSON Reindent",
+		"JSX",
+		"MarkdownPreview",
+		"Package Control",
+		"PackageResourceViewer",
+		"PowerShell",
+		"RawLineEdit",
+		"VBScript"
+	]
+}
