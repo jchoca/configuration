@@ -1,7 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"create_window_at_startup": false,
 	"extra_file_exclude_patterns":
 	[
@@ -54,35 +53,7 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace",
-		"/Users/jameschoca/projects/recipe-creator/app/app.component.spec.js",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe.js",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipes.component.js",
-		"/Users/jameschoca/projects/recipe-creator/app/layout/sidenav.component.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/settings/settings.component.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/ingredients/ingredients.component.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe-tile.component.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/app.component.js",
-		"/Users/jameschoca/projects/recipe-creator/app/main.js",
-		"/Users/jameschoca/projects/recipe-creator/typings/browser.d.ts",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe.service.js.map",
-		"/Users/jameschoca/projects/recipe-creator/typings/main.d.ts",
-		"/Users/jameschoca/projects/recipe-creator/app/app.component.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/app.component.spec.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/settings/settings.component.js",
-		"/Users/jameschoca/projects/recipe-creator/app/layout/sidenav.component.js",
-		"/Users/jameschoca/projects/recipe-creator/app/ingredients/ingredients.component.js",
-		"/Users/jameschoca/projects/recipe-creator/app/ingredients/ingredient.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe-data.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe.service.js",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe-tile.component.js",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipes.component.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe-data.js",
-		"/Users/jameschoca/projects/recipe-creator/app/ingredients/ingredient.js",
-		"/Users/jameschoca/projects/recipe-creator/app/main.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/recipes/recipe.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/menus/menus.component.js.map",
-		"/Users/jameschoca/projects/recipe-creator/app/menus/menus.component.js"
+		"*.sublime-workspace"
 	],
 	"folder_exclude_patterns":
 	[
@@ -90,8 +61,6 @@
 		".git",
 		".hg",
 		"CVS",
-		"/Users/jameschoca/projects/recipe-creator/typings/browser",
-		"/Users/jameschoca/projects/recipe-creator/typings/main",
 		"node_modules"
 	],
 	"font_size": 11,
